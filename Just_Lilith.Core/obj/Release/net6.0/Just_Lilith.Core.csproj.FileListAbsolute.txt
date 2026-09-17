@@ -1,0 +1,9 @@
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Core\bin\Release\net6.0\Just_Lilith.Core.deps.json
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Core\bin\Release\net6.0\Just_Lilith.Core.dll
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Core\bin\Release\net6.0\Just_Lilith.Core.pdb
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Core\obj\Release\net6.0\Just_Lilith.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Core\obj\Release\net6.0\Just_Lilith.Core.csproj.CoreCompileInputs.cache
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Core\obj\Release\net6.0\Just_Lilith.Core.dll
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Core\obj\Release\net6.0\refint\Just_Lilith.Core.dll
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Core\obj\Release\net6.0\Just_Lilith.Core.pdb
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Core\obj\Release\net6.0\ref\Just_Lilith.Core.dll

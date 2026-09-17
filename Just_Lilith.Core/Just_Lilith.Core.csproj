@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Just_Lilith.Core</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Just_Lilith.DefaultAgentPersona" />
+    <None Remove="Just_Lilith.SpeechCatalog" />
+    <None Remove="Just_Lilith.DefaultWorldBook" />
+    <EmbeddedResource Include="Just_Lilith.DefaultAgentPersona" LogicalName="Just_Lilith.DefaultAgentPersona" />
+    <EmbeddedResource Include="Just_Lilith.SpeechCatalog" LogicalName="Just_Lilith.SpeechCatalog" />
+    <EmbeddedResource Include="Just_Lilith.DefaultWorldBook" LogicalName="Just_Lilith.DefaultWorldBook" />
+  </ItemGroup>
+  <ItemGroup />
+</Project>

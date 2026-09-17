@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Just_Lilith.Unity/1.0.0": {
+        "dependencies": {
+          "Just_Lilith.Core": "1.0.0"
+        },
+        "runtime": {
+          "Just_Lilith.Unity.dll": {}
+        }
+      },
+      "Just_Lilith.Core/1.0.0": {
+        "runtime": {
+          "Just_Lilith.Core.dll": {
+            "assemblyVersion": "0.3.0.0",
+            "fileVersion": "0.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Just_Lilith.Unity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Just_Lilith.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

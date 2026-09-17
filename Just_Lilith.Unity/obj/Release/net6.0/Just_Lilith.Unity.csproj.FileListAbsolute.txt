@@ -1,0 +1,13 @@
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\bin\Release\net6.0\Just_Lilith.Unity.deps.json
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\bin\Release\net6.0\Just_Lilith.Unity.dll
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\bin\Release\net6.0\Just_Lilith.Unity.pdb
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\bin\Release\net6.0\Just_Lilith.Core.dll
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\bin\Release\net6.0\Just_Lilith.Core.pdb
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\obj\Release\net6.0\Just_Lilith.Unity.csproj.AssemblyReference.cache
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\obj\Release\net6.0\Just_Lilith.Unity.GeneratedMSBuildEditorConfig.editorconfig
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\obj\Release\net6.0\Just_Lilith.Unity.csproj.CoreCompileInputs.cache
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\obj\Release\net6.0\Just_Lil.9D4D9B4F.Up2Date
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\obj\Release\net6.0\Just_Lilith.Unity.dll
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\obj\Release\net6.0\refint\Just_Lilith.Unity.dll
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\obj\Release\net6.0\Just_Lilith.Unity.pdb
+E:\_WorkSpace\Just_Lilith_Original\Just_Lilith.Unity\obj\Release\net6.0\ref\Just_Lilith.Unity.dll
